@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/vincentq/transport-visualiser/issues"
   },
-  "homepage": "https://github.com/vincentq/transport-visualiser#readme"
+  "homepage": "https://github.com/vincentq/transport-visualiser#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.10.2",
+    "jshint-stylish": "^2.2.1"
+  }
 }
